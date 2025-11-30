@@ -1,0 +1,5 @@
+# Editor specific
+.zed/
+
+# Build specific
+bin/
